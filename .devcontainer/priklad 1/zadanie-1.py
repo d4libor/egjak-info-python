@@ -1,1 +1,3 @@
-#priklad zadanie 1
+#priklad zadanie 1 - napis ahoj
+
+print ("ahoj")
