@@ -1,0 +1,1 @@
+#priklad zadanie 1
