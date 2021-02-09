@@ -18,6 +18,6 @@ Nainstalovat treba nasledovne bezplatne aplikacie:
 
 * nainstalovat do VS Code rozsirenie **Remote - Containers extension**
 * vo VS Code sa pripojit cez rozsirenie **Remote - Containers extension** na https://github.com/d4libor/egjak-info-python.git
-* nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat
+* nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat. Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
 
 Samozrejme je mozne vytvorit podobne prostredia aj pre ine programovacie jazyky a ich verzie (Python2, Python3...)
