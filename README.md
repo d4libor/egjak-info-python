@@ -23,6 +23,10 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 ### pripojit sa 
 
+> start aplikacie Docker Desktop moze trvat niekolko minut. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
+>
+> ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
+
 * stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers extension**
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
