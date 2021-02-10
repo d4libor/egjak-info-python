@@ -39,8 +39,12 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 ![volume](https://code.visualstudio.com/assets/blogs/2020/07/27/8-volume-command.png)
 
-* nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat. Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
+* nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
 
 ![build](https://code.visualstudio.com/assets/blogs/2020/07/27/10-starting-container.png)
 
-Samozrejme je mozne vytvorit podobne prostredia aj pre ine programovacie jazyky a ich verzie (Python2, Python3...)
+* Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
+
+![build](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
+
+Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programovacie jazyky a ich verzie.
