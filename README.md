@@ -1,7 +1,6 @@
-# egjak-info-python
-repo pre egjak, vyucba informatiky, python
+# Konfiguracia Visual Studio Code pre vyucbu programovania
 
-Vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si python museli instalovat aj vsetci ziaci na svojich pocitacoch. jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
+Vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si napr. Python museli instalovat aj vsetci ziaci na svojich pocitacoch. jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
 * Github
 * Visual Studio Code
 * Docker a nasledne suvisiace produkty ako Kubernetes, OpenShift atd.
