@@ -17,9 +17,9 @@ Nainstalovat treba nasledovne bezplatne aplikacie:
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
 * nainstalovat do VS Code rozsirenie **Remote - Containers extension**
-* vo VS Code sa pripojit cez rozsirenie **Remote - Containers extension** -> 
+* vo VS Code stlacit klaves **F1** -> sa pripojit cez rozsirenie **Remote - Containers extension**
 
-* **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git , 
+* **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git
 
 * **Create a unique volume.**
 
