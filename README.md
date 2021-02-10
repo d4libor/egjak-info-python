@@ -20,11 +20,17 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 * nainstalovat rozsirenie **Remote - Containers extension**
 
+![nainstalovat rozsirenie](https://code.visualstudio.com/assets/blogs/2020/07/27/3-extension.png)
+
 ### pripojit sa 
 
 * stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers extension**
 
+![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
+
 * **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git
+
+![clone](https://code.visualstudio.com/assets/blogs/2020/07/27/6-clone-repo-command.png)
 
 > pre skusku ake rozne prostredia je mozne pripravit takymto sposobom je mozne pouzit **F1** -> 
 > * pripojit sa cez rozsirenie **Remote - Containers extension**
@@ -32,6 +38,10 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 * **Create a unique volume.**
 
+![volume](https://code.visualstudio.com/assets/blogs/2020/07/27/8-volume-command.png)
+
 * nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat. Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
+
+![build](https://code.visualstudio.com/assets/blogs/2020/07/27/10-starting-container.png)
 
 Samozrejme je mozne vytvorit podobne prostredia aj pre ine programovacie jazyky a ich verzie (Python2, Python3...)
