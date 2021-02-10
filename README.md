@@ -17,7 +17,7 @@ Nainstalovat treba nasledovne bezplatne aplikacie:
 
 Po nainstalovani oboch aplikacii vo VS Code:
 
-* nainstalovat rozsirenie **Remote - Containers extension**
+* nainstalovat rozsirenie **Remote - Containers**
 
 ![nainstalovat rozsirenie](https://code.visualstudio.com/assets/blogs/2020/07/27/3-extension.png)
 
@@ -36,7 +36,7 @@ Po nainstalovani oboch aplikacii vo VS Code:
 ![clone](https://code.visualstudio.com/assets/blogs/2020/07/27/6-clone-repo-command.png)
 
 > pre skusku ake rozne prostredia je mozne pripravit takymto sposobom je mozne pouzit **F1** -> 
-> * pripojit sa cez rozsirenie **Remote - Containers extension**
+> * pripojit sa cez rozsirenie **Remote - Containers**
 > * pouzit **Try a Sample...** . Takto je mozne nacitat priklady kontajnerov pre prostredia, ktore pripravil priamo tim Microsoft pre programovacie jazyky C++, Go, Java, PHP, .NET Core...
 >
 > ![sample](https://code.visualstudio.com/assets/docs/remote/containers/select-a-sample.png)
