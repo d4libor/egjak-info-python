@@ -38,6 +38,8 @@ Po nainstalovani oboch aplikacii vo VS Code:
 > pre skusku ake rozne prostredia je mozne pripravit takymto sposobom je mozne pouzit **F1** -> 
 > * pripojit sa cez rozsirenie **Remote - Containers extension**
 > * pouzit **Try a Sample...** . Takto je mozne nacitat priklady kontajnerov pre prostredia, ktore pripravil priamo tim Microsoft pre programovacie jazyky C++, Go, Java, PHP, .NET Core...
+>
+> ![sample](https://code.visualstudio.com/assets/docs/remote/containers/select-a-sample.png)
 
 * **Create a unique volume.**
 
