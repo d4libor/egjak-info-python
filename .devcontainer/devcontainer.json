@@ -35,7 +35,8 @@
 	"extensions": [
 		"ms-python.python",
 		"visualstudioexptteam.vscodeintellicode",
-		"donjayamanne.githistory"
+		"donjayamanne.githistory",
+		"ms-toolsai.jupyter"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
