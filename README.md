@@ -56,3 +56,5 @@ Po nainstalovani oboch aplikacii vo VS Code:
 Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programovacie jazyky a ich verzie.
 
 Video navod pre pracu s kontajnermi a VS Code https://channel9.msdn.com/Series/Beginners-Series-to-Dev-Containers?WT.mc_id=devcloud-11496-cxa
+
+> priklady prevzate z https://github.com/microsoft/c9-python-getting-started
