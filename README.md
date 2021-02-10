@@ -1,25 +1,34 @@
 # egjak-info-python
 repo pre egjak, vyucba informatiky, python
 
-vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si python museli instalovat aj vsetci ziaci na svojich pocitacoch. jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
+Vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si python museli instalovat aj vsetci ziaci na svojich pocitacoch. jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
 * Github
 * Visual Studio Code
 * Docker a nasledne suvisiace produkty ako Kubernetes, OpenShift atd.
 
-Postup je rozpisany vratane screenshotov v originalnom dokumente 
-
-**Development Containers in Education: A Guide for Instructors**
-
-https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
-
+## instalacia aplikacii
 Nainstalovat treba nasledovne bezplatne aplikacie: 
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
-* nainstalovat do VS Code rozsirenie **Remote - Containers extension**
-* vo VS Code stlacit klaves **F1** -> sa pripojit cez rozsirenie **Remote - Containers extension**
+> Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
+> * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
+
+### instalacia rozsirenia
+
+Po nainstalovani oboch aplikacii vo VS Code:
+
+* nainstalovat rozsirenie **Remote - Containers extension**
+
+### pripojit sa 
+
+* stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers extension**
 
 * **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git
+
+> pre skusku ake rozne prostredia je mozne pripravit takymto sposobom je mozne pouzit **F1** -> 
+> * pripojit sa cez rozsirenie **Remote - Containers extension**
+> * pouzit **Try a Sample...** . Takto je mozne nacitat priklady kontajnerov pre prostredia, ktore pripravil priamo tim Microsoft pre programovacie jazyky C++, Go, Java, PHP, .NET Core...
 
 * **Create a unique volume.**
 
