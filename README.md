@@ -27,7 +27,7 @@ Po nainstalovani oboch aplikacii vo VS Code:
 >
 > ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
 
-* stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers extension**
+* stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers**
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
 
