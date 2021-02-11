@@ -6,7 +6,7 @@ Vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov b
 * Docker a nasledne suvisiace produkty ako Kubernetes, OpenShift atd.
 
 ## instalacia aplikacii
-Nainstalovat treba nasledovne bezplatne aplikacie: 
+Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat len dve nasledovne bezplatne aplikacie: 
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
