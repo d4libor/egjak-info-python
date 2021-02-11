@@ -1,9 +1,11 @@
 # Konfiguracia Visual Studio Code pre vyucbu programovania
 
-Vytvorene pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si napr. Python museli instalovat aj vsetci ziaci na svojich pocitacoch. jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
+Specialne v obdobi, kedy vyucba prebieha na dialku, musia ziaci na svoja notebooky kvoli vyucbe programovacich jazykov instalovat potrebne aplikacie (Python, Java develpment kit...). Toto moze predstavovat nezelanu komplikaciu, kedze ucitel musi riesit okrem vyucby aj problemy ziakov s instalaciou.
+
+Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych programovacich jazykov bez toho, aby si napr. Python museli instalovat aj vsetci ziaci na svojich pocitacoch. Jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. Vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
 * Github
 * Visual Studio Code
-* Docker a nasledne suvisiace produkty ako Kubernetes, OpenShift atd.
+* Docker
 
 ## instalacia aplikacii
 Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat len dve nasledovne bezplatne aplikacie: 
@@ -23,15 +25,15 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 ### pripojit sa 
 
-> start aplikacie Docker Desktop moze trvat niekolko minut. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
+> start aplikacie Docker Desktop moze trvat pomerne dlho. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
 >
 > ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
 
-* stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers**
+1) stlacit klaves **F1** -> pripojit sa cez rozsirenie **Remote - Containers**
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
 
-* **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git
+2) **Clone Repository in Container Volume...** na https://github.com/d4libor/egjak-info-python.git
 
 ![clone](https://code.visualstudio.com/assets/blogs/2020/07/27/6-clone-repo-command.png)
 
@@ -41,15 +43,15 @@ Po nainstalovani oboch aplikacii vo VS Code:
 >
 > ![sample](https://code.visualstudio.com/assets/docs/remote/containers/select-a-sample.png)
 
-* **Create a unique volume.**
+3) **Create a unique volume.**
 
 ![volume](https://code.visualstudio.com/assets/blogs/2020/07/27/8-volume-command.png)
 
-* nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
+4) nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
 
 ![build](https://code.visualstudio.com/assets/blogs/2020/07/27/10-starting-container.png)
 
-* Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
+5) Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
 
 ![build](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
 
