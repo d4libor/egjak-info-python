@@ -2,7 +2,7 @@
 
 Specialne v obdobi, kedy vyucba prebieha na dialku, musia ziaci na svoja notebooky kvoli vyucbe programovacich jazykov instalovat potrebne aplikacie (Python, Java develpment kit...). Toto moze predstavovat nezelanu komplikaciu, kedze ucitel musi riesit okrem vyucby aj problemy ziakov s instalaciou.
 
-Tento postup je samozrejme mozne pouzit aj na pripravu skolskych notebookov na vyucbu. nebude treba jednotlivo riesit verzie aplikacii na jednotlivych notebookoch.
+Nasledovny postup je samozrejme mozne pouzit aj na pripravu skolskych notebookov na vyucbu. nebude treba jednotlivo riesit verzie aplikacii na jednotlivych notebookoch.
 
 Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych programovacich jazykov (pripadne aj napriklad zaklady prace s Linuxom) bez toho, aby si napr. Python museli instalovat aj vsetci ziaci na svojich pocitacoch. Jednoduchym sposobom budu mat ziaci pristup prostrediu, ktore je pripravene na pracu priamo ucitelom. Vsetci ziaci budu mat rovnake prostredie, ziadne problemy s tym ze "u mna to nefunguje". navyse budu tymto sposobom uvedeny do modernych nastrojov pouzivanych v IT:
 * Github
