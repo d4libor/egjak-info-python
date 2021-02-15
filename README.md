@@ -19,6 +19,7 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
     - [3.3 Create a unique volume](#33-create-a-unique-volume)
     - [3.4 automaticke zbuildovanie Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
 4. [spustanie programov](#4-spustanie-programov)
+5. [Zdroje informacii](#5-Zdroje-informacii)
 
 ## 1. instalacia aplikacii
 Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat [^1] len dve nasledovne bezplatne aplikacie:
@@ -102,16 +103,17 @@ Samozrejme je mozne podobnym sposobom vytvorit pre ziakov prostredia aj pre ine 
 [späť na obsah](#obsah)
 
 ****
+## 5. Zdroje informacii
 
-## Povodny dokument v anglictine
+### Povodny dokument v anglictine
 Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
     * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
 
-## Video navod
+### Video navod
 
 Video navod pre pracu s kontajnermi a VS Code https://channel9.msdn.com/Series/Beginners-Series-to-Dev-Containers?WT.mc_id=devcloud-11496-cxa
 
-## Python priklady
+### Python priklady
 
 priklady Python suborov su prevzate z https://github.com/microsoft/c9-python-getting-started
 
