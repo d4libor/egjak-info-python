@@ -19,14 +19,14 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
     - [3.3 Create a unique volume](#33-create-a-unique-volume)
     - [3.4 automaticka priprava Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
 4. [spustanie programov](#4-spustanie-programov)
-5. [zdroje informacii](#5-Zdroje-informacii)
+5. [zdroje informacii](#5-zdroje-informacii)
 
 ## 1. instalacia aplikacii
 Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat [^1] len dve nasledovne bezplatne aplikacie:
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ## 2. instalacia rozsirenia do VS Code
 
@@ -34,7 +34,7 @@ Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je 
 
 ![nainstalovat rozsirenie](https://code.visualstudio.com/assets/blogs/2020/07/27/3-extension.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ## 3. kontrola Docker Desktop
 
@@ -42,7 +42,7 @@ Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je 
 
  ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ### 3.1 zobrazit zoznam prikazov
 
@@ -50,7 +50,7 @@ zobrazit zoznam prikazov stlacenim klavesy **F1** -> pripojit sa cez rozsirenie 
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ### 3.2 Clone Repository in Container Volume
 
@@ -64,7 +64,7 @@ v zozname prikazov zvolit **Clone Repository in Container Volume** -> nasledovne
 >
 > ![sample](https://code.visualstudio.com/assets/docs/remote/containers/select-a-sample.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ### 3.3 Create a unique volume
 
@@ -72,7 +72,7 @@ Priklad:
 
 > ![volume](https://code.visualstudio.com/assets/blogs/2020/07/27/8-volume-command.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ### 3.4 automaticka priprava Docker kontajnera
 
@@ -82,7 +82,7 @@ Priklad:
 
 > ![build](https://code.visualstudio.com/assets/blogs/2020/07/27/10-starting-container.png)
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ## 4. Spustanie programov
 
@@ -98,7 +98,7 @@ Priklad:
 
 Samozrejme je mozne podobnym sposobom vytvorit pre ziakov prostredia aj pre ine programovacie jazyky a ich verzie.
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
 
 ****
 ## 5. Zdroje informacii
@@ -115,4 +115,4 @@ Video navod pre pracu s kontajnermi a VS Code https://channel9.msdn.com/Series/B
 
 priklady Python suborov su prevzate z https://github.com/microsoft/c9-python-getting-started
 
-[späť na obsah](#obsah)
+[`späť na obsah`](#obsah)
