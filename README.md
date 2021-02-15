@@ -21,12 +21,12 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 4. [spustanie programov](#4-spustanie-programov)
 
 ## 1. instalacia aplikacii
-Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat len dve nasledovne bezplatne aplikacie: 
+Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat [^1] len dve nasledovne bezplatne aplikacie:
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
-> Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
-> * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
+[^1]: Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
+    * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
 
 [späť na obsah](#obsah)
 
