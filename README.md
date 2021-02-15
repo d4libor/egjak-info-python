@@ -19,7 +19,7 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
     - [3.3 Create a unique volume](#33-create-a-unique-volume)
     - [3.4 automaticke zbuildovanie Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
 4. [spustanie programov](#4-spustanie-programov)
-5. [Zdroje informacii](#5-Zdroje-informacii)
+5. [zdroje informacii](#5-Zdroje-informacii)
 
 ## 1. instalacia aplikacii
 Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat [^1] len dve nasledovne bezplatne aplikacie:
