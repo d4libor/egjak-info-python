@@ -80,7 +80,7 @@ Priklad:
 
 ### 3.4 automaticka priprava Docker kontajnera
 
-nasledne bude automaticky lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
+nasledne bude automaticky lokalne zbuildovany Docker kontajner
 
 Priklad:
 
@@ -91,6 +91,8 @@ Priklad:
 ## 4. Spustanie programov
 
 Po uspesnej lokalnej priprave Docker kontajnera moze ziak hned programovat.
+
+> ![start](https://code.visualstudio.com/assets/blogs/2020/07/27/11-sortpy-cropped.png)
 
 Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
 
