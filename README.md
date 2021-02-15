@@ -25,9 +25,6 @@ Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je 
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
-[^1]: Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
-    * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
-
 [späť na obsah](#obsah)
 
 ## 2. instalacia rozsirenia
@@ -100,12 +97,20 @@ Priklad:
 
 > ![build](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
 
+Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programovacie jazyky a ich verzie.
+
 ****
 
-Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programovacie jazyky a ich verzie.
+## Povodny dokument v anglictine
+Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
+    * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
+
+## Video navod
 
 Video navod pre pracu s kontajnermi a VS Code https://channel9.msdn.com/Series/Beginners-Series-to-Dev-Containers?WT.mc_id=devcloud-11496-cxa
 
-> priklady prevzate z https://github.com/microsoft/c9-python-getting-started
+## Python priklady
+
+priklady Python suborov su prevzate z https://github.com/microsoft/c9-python-getting-started
 
 [späť na obsah](#obsah)
