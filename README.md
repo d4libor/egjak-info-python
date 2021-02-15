@@ -97,7 +97,9 @@ Priklad:
 
 > ![build](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
 
-Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programovacie jazyky a ich verzie.
+Samozrejme je mozne podobnym sposobom vytvorit pre ziakov prostredia aj pre ine programovacie jazyky a ich verzie.
+
+[späť na obsah](#obsah)
 
 ****
 
