@@ -12,7 +12,7 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 ## Obsah
 
 1. [instalacia aplikacii](#1-instalacia-aplikacii)
-2. [instalacia rozsirenia](#2-instalacia-rozsirenia)
+2. [instalacia rozsirenia  do VS Code](#2-instalacia-rozsirenia-do-vs-code)
 3. [kontrola Docker Desktop](#3-kontrola-docker-desktop)
     - [3.1 zobrazit zoznam prikazov](#31-zobrazit-zoznam-prikazov)
     - [3.2 Clone Repository in Container Volume](#32-clone-repository-in-container-volume)
