@@ -14,10 +14,10 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 1. [instalacia aplikacii](#1-instalacia-aplikacii)
 2. [instalacia rozsirenia](#2-instalacia-rozsirenia)
 3. [pripojenie na Github](#3-pripojenie-na-github)
-    - [3.1 stlacit klaves F1](#3-1-stlacit-klaves-f1)
-    - [3.2 Clone Repository in Container Volume](#3-2-clone-repository-in-container-volume)
-    - [3.3 Create a unique volume](#3-3-create-a-unique-volume)
-    - [3.4 automaticke zbuildovanie Docker kontajnera](#3-4-automaticka-priprava-docker-kontajnera)
+    - [3.1 stlacit klaves F1](#31-stlacit-klaves-f1)
+    - [3.2 Clone Repository in Container Volume](#32-clone-repository-in-container-volume)
+    - [3.3 Create a unique volume](#33-create-a-unique-volume)
+    - [3.4 automaticke zbuildovanie Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
 4. [spustanie programov](#4-spustanie-programov)
 
 ## 1. instalacia aplikacii
