@@ -90,6 +90,8 @@ Priklad:
 
 ## 4. Spustanie programov
 
+Po uspesnej lokalnej priprave Docker kontajnera moze ziak hned programovat.
+
 Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
 
 Priklad:
