@@ -13,8 +13,8 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 
 1. [instalacia aplikacii](#1-instalacia-aplikacii)
 2. [instalacia rozsirenia](#2-instalacia-rozsirenia)
-3. [pripojenie na Github](#3-pripojenie-na-github)
-    - [3.1 stlacit klaves F1](#31-stlacit-klaves-f1)
+3. [kontrola Docker Desktop](#3-kontrola-docker-desktop)
+    - [3.1 zobrazit zoznam prikazov](#31-zobrazit-zoznam-prikazov)
     - [3.2 Clone Repository in Container Volume](#32-clone-repository-in-container-volume)
     - [3.3 Create a unique volume](#33-create-a-unique-volume)
     - [3.4 automaticke zbuildovanie Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
@@ -28,9 +28,7 @@ Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je 
 
 [späť na obsah](#obsah)
 
-## 2. instalacia rozsirenia
-
-Po nainstalovani oboch aplikacii vo VS Code:
+## 2. instalacia rozsirenia do VS Code
 
 * nainstalovat rozsirenie **Remote - Containers**
 
@@ -38,17 +36,17 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 [späť na obsah](#obsah)
 
-## 3. pripojenie na Github
+## 3. kontrola Docker Desktop
 
-> start aplikacie Docker Desktop moze trvat pomerne dlho. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
->
-> ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
+ start aplikacie Docker Desktop moze trvat pomerne dlho. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
+
+ ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
 
 [späť na obsah](#obsah)
 
-### 3.1 stlacit klaves F1
+### 3.1 zobrazit zoznam prikazov
 
-pripojit sa cez rozsirenie **Remote - Containers**
+zobrazit zoznam prikazov stlacenim klavesy **F1** -> pripojit sa cez rozsirenie **Remote - Containers**
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
 
@@ -56,7 +54,7 @@ pripojit sa cez rozsirenie **Remote - Containers**
 
 ### 3.2 Clone Repository in Container Volume
 
-na https://github.com/d4libor/egjak-info-python.git
+v zozname prikazov zvolit **Clone Repository in Container Volume** -> nasledovne vlozit URL https://github.com/d4libor/egjak-info-python.git
 
 ![clone](https://code.visualstudio.com/assets/blogs/2020/07/27/6-clone-repo-command.png)
 
@@ -88,7 +86,7 @@ Priklad:
 
 ## 4. Spustanie programov
 
-Po uspesnej lokalnej priprave Docker kontajnera moze ziak hned programovat.
+Po uspesnej lokalnej priprave Docker kontajnera moze ziak hned programovat
 
 > ![start](https://code.visualstudio.com/assets/blogs/2020/07/27/11-sortpy-cropped.png)
 
