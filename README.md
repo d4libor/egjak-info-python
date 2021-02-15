@@ -17,7 +17,7 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
     - [3.1 zobrazit zoznam prikazov](#31-zobrazit-zoznam-prikazov)
     - [3.2 Clone Repository in Container Volume](#32-clone-repository-in-container-volume)
     - [3.3 Create a unique volume](#33-create-a-unique-volume)
-    - [3.4 automaticke zbuildovanie Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
+    - [3.4 automaticka priprava Docker kontajnera](#34-automaticka-priprava-docker-kontajnera)
 4. [spustanie programov](#4-spustanie-programov)
 5. [zdroje informacii](#5-Zdroje-informacii)
 
