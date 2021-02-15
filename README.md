@@ -9,7 +9,18 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 * Visual Studio Code
 * Docker
 
-## 1) instalacia aplikacii
+## Obsah
+
+1. [instalacia aplikacii](#1-instalacia-aplikacii)
+2. [instalacia rozsirenia](#2-instalacia-rozsirenia)
+3. [pripojenie na Github](#3-pripojenie-na-github)
+    - [3.1 stlacit klaves F1](#3-1-stlacit-klaves-f1)
+    - [3.2 Clone Repository in Container Volume](#3-2-clone-repository-in-container-volume)
+    - [3.3 Create a unique volume](#3-3-create-a-unique-volume)
+    - [3.4 automaticke zbuildovanie Docker kontajnera](#3-4-automaticka-priprava-docker-kontajnera)
+4. [spustanie programov](#4-spustanie-programov)
+
+## 1. instalacia aplikacii
 Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat len dve nasledovne bezplatne aplikacie: 
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
@@ -17,7 +28,9 @@ Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je 
 > Postup vratane screenshotov je rozpisany v originalnom dokumente **Development Containers in Education: A Guide for Instructors**
 > * https://code.visualstudio.com/blogs/2020/07/27/containers-edu/?WT.mc_id=devcloud-11496-cxa
 
-## 2) instalacia rozsirenia
+[späť na obsah](#obsah)
+
+## 2. instalacia rozsirenia
 
 Po nainstalovani oboch aplikacii vo VS Code:
 
@@ -25,19 +38,25 @@ Po nainstalovani oboch aplikacii vo VS Code:
 
 ![nainstalovat rozsirenie](https://code.visualstudio.com/assets/blogs/2020/07/27/3-extension.png)
 
-## 3) pripojit sa 
+[späť na obsah](#obsah)
+
+## 3. pripojenie na Github
 
 > start aplikacie Docker Desktop moze trvat pomerne dlho. skor nez sa pristupi k dalsiemu kroku je dolezite ubezpecit sa, ze aplikacia hlasi **Docker Desktop is running**
 >
 > ![docker](https://docs.docker.com/docker-for-windows/images/whale-icon-systray-hidden.png)
 
-### 3.1) stlacit klaves **F1** -> 
+[späť na obsah](#obsah)
+
+### 3.1 stlacit klaves F1
 
 pripojit sa cez rozsirenie **Remote - Containers**
 
 ![Remote - Containers extension](https://code.visualstudio.com/assets/blogs/2020/07/27/5-commands-list.png)
 
-### 3.2) **Clone Repository in Container Volume...** 
+[späť na obsah](#obsah)
+
+### 3.2 Clone Repository in Container Volume
 
 na https://github.com/d4libor/egjak-info-python.git
 
@@ -49,19 +68,29 @@ na https://github.com/d4libor/egjak-info-python.git
 >
 > ![sample](https://code.visualstudio.com/assets/docs/remote/containers/select-a-sample.png)
 
-### 3.3) **Create a unique volume.**
+[späť na obsah](#obsah)
+
+### 3.3 Create a unique volume
 
 Priklad:
 
 > ![volume](https://code.visualstudio.com/assets/blogs/2020/07/27/8-volume-command.png)
 
-### 3.4) nasledne bude lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
+[späť na obsah](#obsah)
+
+### 3.4 automaticka priprava Docker kontajnera
+
+nasledne bude automaticky lokalne zbuildovany Docker kontajner a ziak moze hned programovat.
 
 Priklad:
 
 > ![build](https://code.visualstudio.com/assets/blogs/2020/07/27/10-starting-container.png)
 
-### 3.5) Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
+[späť na obsah](#obsah)
+
+## 4. Spustanie programov
+
+Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci jednoducho kliknut vpravo hore na zelenu sipku **Run python file in terminal**
 
 Priklad:
 
@@ -72,3 +101,5 @@ Samozrejme je mozne vytvorit pre ziakov podobne prostredia aj pre ine programova
 Video navod pre pracu s kontajnermi a VS Code https://channel9.msdn.com/Series/Beginners-Series-to-Dev-Containers?WT.mc_id=devcloud-11496-cxa
 
 > priklady prevzate z https://github.com/microsoft/c9-python-getting-started
+
+[späť na obsah](#obsah)
