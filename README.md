@@ -22,7 +22,7 @@ Tento dokument je vytvoreny pre demonstraciu moznej vyucby Python a inych progra
 5. [zdroje informacii](#5-zdroje-informacii)
 
 ## 1. instalacia aplikacii
-Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat [^1] len dve nasledovne bezplatne aplikacie:
+Pre vyucbu vsetkych dostupnych programovacich jazykov (Python, Java, PHP...) je potrebne nainstalovat len dve nasledovne bezplatne aplikacie:
 1) Visual Studio Code https://code.visualstudio.com/download
 2) Docker Desktop https://www.docker.com/products/docker-desktop
 
@@ -95,8 +95,6 @@ Spustanie programov je tiez super jednoduche. Pri otvorenom *.PY subore staci je
 Priklad:
 
 > ![build](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
-
-Samozrejme je mozne podobnym sposobom vytvorit pre ziakov prostredia aj pre ine programovacie jazyky a ich verzie.
 
 [`späť na obsah`](#obsah)
 
